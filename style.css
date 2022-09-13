@@ -1,0 +1,51 @@
+.container{
+    width: 700px;
+    height: 820px;
+    background-color: lightcyan;
+    margin: 0px auto;
+    border-top: 3px solid black;
+}
+
+.top-nav {
+    height: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.two-nav {
+    height: 215px;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.three-nav{
+    height: 215px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px;
+
+}
+
+.four-nav{
+    height: 215px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.five-nav{
+    text-align: center;
+}
+
+.cat{
+    height: 200px;
+}

@@ -1,0 +1,14 @@
+GitHub Blocks in Title
+    H1, align Center, no background
+
+First Container
+    3 images, justify content space around, background color
+
+Second Container
+    2 images, justify content space between, background color
+
+Third Container
+    3 images, white background, 
+
+Footer (still in container)
+    Images from Github Octodex, centered, link to Github Octodex
